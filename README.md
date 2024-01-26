@@ -1,2 +1,23 @@
 # LayoverApp.github.io
 레이오버 지원 홈페이지
+### 영상 탐색 및 시청
+> 홈에서 랜덤한 영상을 탐색하고, 원하는 영상을 골라 재생할 수 있습니다.
+
+<img src="https://github.com/boostcampwm2023/iOS09-Layover/assets/46420281/2b69de8c-a6b6-45fe-94db-5c0f0da3795d" width=20% />
+<img src="https://github.com/boostcampwm2023/iOS09-Layover/assets/46420281/ff21462b-6cc3-4d0d-be8d-e776167ca3f3" width=20% />
+
+### 위치 기반 영상 탐색
+> 지도에서 원하는 지역의 영상을 탐색하고, 원하는 영상을 골라 재생할 수 있습니다.
+
+<img src="https://github.com/boostcampwm2023/iOS09-Layover/assets/46420281/38d6ef0e-2d45-4a6d-9c20-90dd2811c1ee" width=20% />
+
+### 영상 편집 및 위치 기반 영상 업로드
+> 현재 위치를 기반으로, 간단한 편집 기능과 함께 영상을 업로드 할 수 있습니다.
+
+<img src="https://github.com/boostcampwm2023/iOS09-Layover/assets/46420281/ab1913b8-9eae-4f14-a52e-e6b587eb0d6f" width=20% />
+<img src="https://github.com/boostcampwm2023/iOS09-Layover/assets/46420281/cb7fbd48-3009-4a24-bc1f-a47a22b3dcfd" width=20% />
+
+### 프로필
+> 프로필에서 내가 업로드한 영상의 목록을 확인하고 재생할 수 있습니다.
+
+<img src="https://github.com/boostcampwm2023/iOS09-Layover/assets/46420281/712f2e27-2ed2-4599-b303-cf1b834c6190" width=20% />
